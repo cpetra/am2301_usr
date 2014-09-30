@@ -1,5 +1,5 @@
 /**************************************************************
- Name        : aw2301.c
+ Name        : aw2301_usr.c
  Version     : 0.1
 
  Copyright (C) 2013 Constantin Petra
